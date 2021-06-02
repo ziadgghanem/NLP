@@ -1,0 +1,1 @@
+['atis_abbreviation', 'atis_aircraft', 'atis_airfare', 'atis_airline', 'atis_flight', 'atis_flight_time', 'atis_ground_service', 'atis_quantity']
