@@ -1,0 +1,1 @@
+Data is stored in IOB format (short for inside, outside, beginning) use Dataset to Pandas DataFrame to generate .pkl 
